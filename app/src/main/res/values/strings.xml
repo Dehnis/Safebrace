@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Safebrace</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">1</string>
+    <string name="second_fragment_label">2</string>
+    <string name="next">volgende</string>
+    <string name="previous">vorige</string>
+
+    <string name="hello_first_fragment">Hello world</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button2">Button2</string>
+</resources>
